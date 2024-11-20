@@ -37,7 +37,6 @@ function ProjectForm({ btnText }) {
                 placeholder="Insira o orçamento total" />
 
             <Select name="category_id" text="Selecione a categoria" />
-            {JSON.stringify(categories)}
             <SubmitButton text={btnText} />
         </form>
     )
