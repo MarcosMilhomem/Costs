@@ -1,5 +1,5 @@
 import { useState } from "react"
-import { useEffect } from "react "
+import { useEffect } from "react"
 
 import style from "./ProjectForm.module.css"
 import Input from "../forms/Input"
@@ -58,7 +58,7 @@ function ProjectForm({ handleSubmit, btnText, projectData }) {
                 name="budget"
                 placeholder="Insira o orçamento total"
                 handleOnChange={handleChanghe}
-                value={project.budget ? project.budget : ''}
+                value={project.budget ? project.name : ''}
             />
 
             <Select
