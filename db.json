@@ -1,22 +1,263 @@
 {
-    "projects": [],
-    "categories": [
-        {
-            "id": 1,
-            "name": "Infra"
-        },
-        {
-            "id": 2,
-            "name": "Desenvolvimento"
-        },
-        {
-            "id": 3,
-            "name": "Design"
-        },
-        {
-            "id": 4,
-            "name": "Planejamento"
-        }
-    ]
+  "projects": [
+    {
+      "id": "d1ef",
+      "name": "EBD Planner",
+      "budget": "5000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "dc74",
+      "name": "EBD Planner",
+      "budget": "5000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "d301",
+      "name": "EBD Planner",
+      "budget": "3000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "2b6a",
+      "name": "Apolo",
+      "budget": "300",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "b61c",
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "5b65",
+      "name": "df",
+      "budget": "324",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "f50a",
+      "name": "df",
+      "budget": "324",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "633d",
+      "name": "df",
+      "budget": "324",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "aff3",
+      "name": "df",
+      "budget": "324",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "0cc3",
+      "name": "df",
+      "budget": "324",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "ae47",
+      "name": "wqerqw",
+      "budget": "342",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "a1f7",
+      "name": "wqerqw",
+      "budget": "342",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "2d5a",
+      "name": "wqerqw",
+      "budget": "342",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "287a",
+      "name": "wqerqw",
+      "budget": "342",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "0dfe",
+      "name": "wqerqw",
+      "budget": "342",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "f660",
+      "name": "wqerqw",
+      "budget": "342",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "2b74",
+      "name": "wqerqw",
+      "budget": "342",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "d888",
+      "name": "teste",
+      "budget": "444",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "8cec",
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "a3f7",
+      "cost": 0,
+      "services": [],
+      "name": "EBD Planner",
+      "budget": "325",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      }
+    },
+    {
+      "id": "2ea2",
+      "cost": 0,
+      "services": [],
+      "name": "EBD Planner",
+      "budget": "325",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      }
+    },
+    {
+      "id": "ad96",
+      "name": "paos",
+      "budget": "0092",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "6c53",
+      "name": "paos",
+      "budget": "0092",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    }
+  ]
 }
-
