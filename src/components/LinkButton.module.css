@@ -3,9 +3,13 @@
     color: #fff;
     padding: .5em 1em;
     text-decoration: none;
-            transition: 0.3   s;
+    transition: 0.2s;
 }
 
 .btn:hover {
-    color: #ffbb33;
+    background-color: #ffbb33;
+    color: #222;
+    transform: scale(1.15);
+    border-radius: 5px;
+    rotate: 5deg;
 }
